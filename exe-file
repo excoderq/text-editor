@@ -1,0 +1,1 @@
+<directory with file> pyinstaller -F -w main.py
